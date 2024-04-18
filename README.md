@@ -21,14 +21,14 @@ Responsible for data cleaning, preprocessing, and statistical analysis.
 
 **Project Workflow:**
 * Data Preprocessing:
-* * Clean and preprocess the data to handle missing values, outliers, and ensure consistency.
-* * Normalize or standardize numerical features if necessary.
+  * Clean and preprocess the data to handle missing values, outliers, and ensure consistency.
+  * Normalize or standardize numerical features if necessary.
 * Model Training:
-* * Split the dataset into training and testing sets.
-* * Train each model using the training set.
+  * Split the dataset into training and testing sets.
+  * Train each model using the training set.
 * Model Evaluation:
-* * Evaluate the performance of each model using metrics like R-squared, RMSE, and MAE.** 
-* * Compare the models to identify the most influential factors affecting GDP growth rate.
+  * Evaluate the performance of each model using metrics like R-squared, RMSE, and MAE.** 
+  * Compare the models to identify the most influential factors affecting GDP growth rate.
 * Interpretation & Reporting:
-* * Interpret the coefficients of the regression models to understand the impact of each variable on GDP growth rate.
-* * Present the findings through visualizations and a comprehensive report.
+  * Interpret the coefficients of the regression models to understand the impact of each variable on GDP growth rate.
+  * Present the findings through visualizations and a comprehensive report.
