@@ -27,7 +27,7 @@ Responsible for data cleaning, preprocessing, and statistical analysis.
   * Split the dataset into training and testing sets.
   * Train each model using the training set.
 * Model Evaluation:
-  * Evaluate the performance of each model using metrics like R-squared, RMSE, and MAE.** 
+  * Evaluate the performance of each model using metrics like R-squared, RMSE, and MAE.
   * Compare the models to identify the most influential factors affecting GDP growth rate.
 * Interpretation & Reporting:
   * Interpret the coefficients of the regression models to understand the impact of each variable on GDP growth rate.
