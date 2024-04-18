@@ -2,7 +2,7 @@
 **Description:**
 This project aims to investigate the relationship between economic indicators and GDP growth rate. We analyze various factors such as inflation rate, unemployment rate, real interest rate, primary school enrollment rate, and their impact on GDP growth. Using multivariate linear regression models, we aim to identify the most influential factors affecting economic growth across different time periods and countries. 
 
-**Code:** [LINK]()
+**Code:** [LINK](https://github.com/ezhongguo/Economic-Growth-Rate/blob/main/Economic%20Growth%20Rate%20Analysis.ipynb)
 
 **Skills:**
 * Data Wrangling
